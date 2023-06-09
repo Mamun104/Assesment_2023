@@ -13,7 +13,7 @@ https://docs.google.com/spreadsheets/d/1IINud6_ThSUdy8Wue8uIJQ8JfStTnxgYK3ufc50t
 
 ## Screen video for Automation:
 
-https://drive.google.com/drive/folders/1SKDFQ5g1PFpkGfW-EyORs24jmbzOJFXS?usp=sharing  
+https://www.awesomescreenshot.com/video/18193358?key=26ca26f41d7675568e0e751b06b65602 
 
 ## Technology:
 
