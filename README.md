@@ -1,6 +1,6 @@
 # Assesment_2023
 
-### This is an Automation Task provided by Selise for the purpose of hiring process.
+This is an Automation Task provided by Selise for the purpose of hiring process.
 
 ## Answers to questions number 1 to 3 are given below : 
 
